@@ -1,4 +1,4 @@
-A Desktop Application for conversion of PDF of Scanned Images to PDF of Texts
+#A Desktop Application for conversion of PDF of Scanned Images to PDF of Texts
 
 Process Follows
 
