@@ -20,7 +20,7 @@ images = convert_from_path(pdfname)
 pages = []
 for image in images:
     image = PtoCV(image)
-    print("\n**********************************\nPage Numer = "+str(i+1)+"\n**********************************\n")
+    print("\n*************************:P********\nPage Numer = "+str(i+1)+"\n**********************************\n")
     pages.append([imageloc.Localize(image),len(image),len(image[0])])
     i=i+1
     #text = pytesseract.image_to_string(image, lang = 'eng')
