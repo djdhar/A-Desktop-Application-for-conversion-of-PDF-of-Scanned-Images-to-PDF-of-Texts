@@ -4,7 +4,11 @@ import pytesseract
 import djdhar.imageloc as imageloc
 import numpy
 import sys
+<<<<<<< HEAD
 #Comment Comment2
+=======
+#Comment
+>>>>>>> 557e0d80b45c1925b9c5549688af126d2b91e1b4
 
 import djdhar.pdfgenerator as gen
 from pdf2image import convert_from_path, convert_from_bytes
